@@ -3,16 +3,5 @@ VIVID,http://blueturtle.xyz:6562/get.php?username=USERNAME&password=PASSWORD&typ
 VIVID,http://blueturtle.xyz:6562/get.php?username=USERNAME&password=PASSWORD&type=m3u_plus&output=ts,http://blueturtle.xyz:6562/xmltv.php?username=USERNAME&password=PASSWORD,7,8,1,5
 VIVID,http://blueturtle.xyz:6562/get.php?username=USERNAME&password=PASSWORD&type=m3u_plus&output=ts,http://blueturtle.xyz:6562/xmltv.php?username=USERNAME&password=PASSWORD,7,8,1,5
 VIVID,http://blueturtle.xyz:6562/get.php?username=USERNAME&password=PASSWORD&type=m3u_plus&output=ts,http://blueturtle.xyz:6562/xmltv.php?username=USERNAME&password=PASSWORD,7,8,1,5
-VIVID,http://blueturtle.xyz:6562/get.php?username=USERNAME&password=PASSWORD&type=m3u_plus&output=ts,http://blueturtle.xyz:6562/xmltv.php?username=USERNAME&password=PASSWORD,7,8,1,5
-VIVID,http://blueturtle.xyz:6562/get.php?username=USERNAME&password=PASSWORD&type=m3u_plus&output=ts,http://blueturtle.xyz:6562/xmltv.php?username=USERNAME&password=PASSWORD,7,8,1,5
-VIVID,http://blueturtle.xyz:6562/get.php?username=USERNAME&password=PASSWORD&type=m3u_plus&output=ts,http://blueturtle.xyz:6562/xmltv.php?username=USERNAME&password=PASSWORD,7,8,1,5
-VIVID,http://blueturtle.xyz:6562/get.php?username=USERNAME&password=PASSWORD&type=m3u_plus&output=ts,http://blueturtle.xyz:6562/xmltv.php?username=USERNAME&password=PASSWORD,7,8,1,5
-VIVID,http://blueturtle.xyz:6562/get.php?username=USERNAME&password=PASSWORD&type=m3u_plus&output=ts,http://blueturtle.xyz:6562/xmltv.php?username=USERNAME&password=PASSWORD,7,8,1,5
-VIVID,http://blueturtle.xyz:6562/get.php?username=USERNAME&password=PASSWORD&type=m3u_plus&output=ts,http://blueturtle.xyz:6562/xmltv.php?username=USERNAME&password=PASSWORD,7,8,1,5
-VIVID,http://blueturtle.xyz:6562/get.php?username=USERNAME&password=PASSWORD&type=m3u_plus&output=ts,http://blueturtle.xyz:6562/xmltv.php?username=USERNAME&password=PASSWORD,7,8,1,5
-VIVID,http://blueturtle.xyz:6562/get.php?username=USERNAME&password=PASSWORD&type=m3u_plus&output=ts,http://blueturtle.xyz:6562/xmltv.php?username=USERNAME&password=PASSWORD,7,8,1,5
-VIVID,http://blueturtle.xyz:6562/get.php?username=USERNAME&password=PASSWORD&type=m3u_plus&output=ts,http://blueturtle.xyz:6562/xmltv.php?username=USERNAME&password=PASSWORD,7,8,1,5
-VIVID,http://blueturtle.xyz:6562/get.php?username=USERNAME&password=PASSWORD&type=m3u_plus&output=ts,http://blueturtle.xyz:6562/xmltv.php?username=USERNAME&password=PASSWORD,7,8,1,5
-VIVID,http://blueturtle.xyz:6562/get.php?username=USERNAME&password=PASSWORD&type=m3u_plus&output=ts,http://blueturtle.xyz:6562/xmltv.php?username=USERNAME&password=PASSWORD,7,8,1,5
 VIVIDWEBXML,http://blueturtle.xyz:6562/get.php?username=USERNAME&password=PASSWORD&type=m3u_plus&output=ts,http://vivid-media.net/EPG/guide.xml,7,8,1,5
 VIVID-Beta,http://blueturtle.xyz:6562/get.php?username=USERNAME&password=PASSWORD&type=m3u_plus&output=ts,http://blueturtle.xyz:6562/xmltv.php?username=USERNAME&password=PASSWORD,7,8,1,5
